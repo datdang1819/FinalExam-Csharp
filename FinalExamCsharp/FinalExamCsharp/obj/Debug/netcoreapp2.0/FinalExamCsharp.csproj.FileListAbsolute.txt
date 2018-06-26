@@ -1,0 +1,11 @@
+C:\Users\DAT\RiderProjects\FinalExamCsharp\FinalExamCsharp\bin\Debug\netcoreapp2.0\FinalExamCsharp.deps.json
+C:\Users\DAT\RiderProjects\FinalExamCsharp\FinalExamCsharp\bin\Debug\netcoreapp2.0\FinalExamCsharp.runtimeconfig.json
+C:\Users\DAT\RiderProjects\FinalExamCsharp\FinalExamCsharp\bin\Debug\netcoreapp2.0\FinalExamCsharp.runtimeconfig.dev.json
+C:\Users\DAT\RiderProjects\FinalExamCsharp\FinalExamCsharp\bin\Debug\netcoreapp2.0\FinalExamCsharp.dll
+C:\Users\DAT\RiderProjects\FinalExamCsharp\FinalExamCsharp\bin\Debug\netcoreapp2.0\FinalExamCsharp.pdb
+C:\Users\DAT\RiderProjects\FinalExamCsharp\FinalExamCsharp\obj\Debug\netcoreapp2.0\FinalExamCsharp.csprojAssemblyReference.cache
+C:\Users\DAT\RiderProjects\FinalExamCsharp\FinalExamCsharp\obj\Debug\netcoreapp2.0\FinalExamCsharp.csproj.CoreCompileInputs.cache
+C:\Users\DAT\RiderProjects\FinalExamCsharp\FinalExamCsharp\obj\Debug\netcoreapp2.0\FinalExamCsharp.AssemblyInfoInputs.cache
+C:\Users\DAT\RiderProjects\FinalExamCsharp\FinalExamCsharp\obj\Debug\netcoreapp2.0\FinalExamCsharp.AssemblyInfo.cs
+C:\Users\DAT\RiderProjects\FinalExamCsharp\FinalExamCsharp\obj\Debug\netcoreapp2.0\FinalExamCsharp.dll
+C:\Users\DAT\RiderProjects\FinalExamCsharp\FinalExamCsharp\obj\Debug\netcoreapp2.0\FinalExamCsharp.pdb
